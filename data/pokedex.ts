@@ -19809,4 +19809,16 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	piemonster7: {
+		num: -5002,
+		species: "PieMonster7",
+		types: ["Electric", "Psychic"],
+		gender: "N",
+		baseStats: { hp: 90, atk: 90, def: 85, spa: 125, spd: 90, spe: 100 },
+		abilities: { 0: "Pressure", H: "Static" },
+		heightm: 1.6,
+		weightkg: 52.6,
+		color: "Yellow",
+		eggGroups: ["Undiscovered"]
+	},
 };
